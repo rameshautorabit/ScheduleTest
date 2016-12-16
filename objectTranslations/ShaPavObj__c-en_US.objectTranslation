@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ShaPavObj</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>ShaPavObj</value>
+    </caseValues>
+    <fields>
+        <label><!-- PavEZCF2 --></label>
+        <name>PavEZCF2__c</name>
+    </fields>
+    <fields>
+        <label><!-- PavEZCF4 --></label>
+        <name>PavEZCF4__c</name>
+    </fields>
+    <fields>
+        <label>Test</label>
+        <name>PavEZCF__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShaEZCF2 --></label>
+        <name>ShaEZCF2__c</name>
+    </fields>
+    <fields>
+        <help><!-- Hello now editing senario --></help>
+        <label><!-- ShaEZCFN --></label>
+        <name>ShaEZCFN__c</name>
+    </fields>
+    <fields>
+        <help><!-- Hi every one --></help>
+        <label><!-- ShaEZFieldM --></label>
+        <name>ShaEZFieldN__c</name>
+    </fields>
+    <layouts>
+        <layout>PavEZPL</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>PavEZPL2</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>ShaEZPL</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>ShaEZPLN</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Log a Call --></label>
+        <name>ShaEZLinkM</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Log A Note --></label>
+        <name>ShaEZLinkN</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- PavEZRT --></label>
+        <name>PavEZRT</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- PavEZRT2 --></label>
+        <name>PavEZRT2</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- ShaEZNew --></label>
+        <name>ShaEZNew</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- ShaEZRT --></label>
+        <name>ShaEZRT</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- ShaEZRTM --></label>
+        <name>ShaEZRTM</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- ShaEZRTN --></label>
+        <name>ShaEZRTN</name>
+    </recordTypes>
+    <sharingReasons>
+        <label><!-- PavEZSR2 --></label>
+        <name>PavEZSR2_EZ</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- PavEZSR --></label>
+        <name>PavEZSR_Test_EZ2_1_1</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- ShaEZASN --></label>
+        <name>ShaEZASN</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- ShaEZSR --></label>
+        <name>ShaEZSR</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Test Pav --></errorMessage>
+        <name>PavEZVR</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Test --></errorMessage>
+        <name>PavEZVR2</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- hello error --></errorMessage>
+        <name>ShaEZNew</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- this is error --></errorMessage>
+        <name>ShaEZNew1</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- message --></errorMessage>
+        <name>ShaEZVR2</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Test --></errorMessage>
+        <name>ShaEZVRM</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This is Error message --></errorMessage>
+        <name>ShaEZVRN</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Hello --></errorMessage>
+        <name>ShaEZVRN2</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- PavEZLInk2 --></label>
+        <name>PavEZLInk2</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- PavEZLink --></label>
+        <name>PavEZLink</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- ShaEZNew --></label>
+        <name>ShaEZNew</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- ShaEZWLM --></label>
+        <name>ShaEZWLM</name>
+    </webLinks>
+</CustomObjectTranslation>

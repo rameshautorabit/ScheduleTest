@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>CheckDiff</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>CheckDiff</value>
+    </caseValues>
+    <fields>
+        <label><!-- Diff --></label>
+        <name>Diff__c</name>
+    </fields>
+    <layouts>
+        <layout>CheckDiff Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- ProfileComRT --></label>
+        <name>ProfileComRT</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

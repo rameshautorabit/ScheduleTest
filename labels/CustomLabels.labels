@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>PavEZCL</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>PavEZCL</shortDescription>
+        <value>Test</value>
+    </labels>
+    <labels>
+        <fullName>PavEZCL6</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>PavEZCL6</shortDescription>
+        <value>Test</value>
+    </labels>
+    <labels>
+        <fullName>SCHLable6</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>SCHLable6</shortDescription>
+        <value>9</value>
+    </labels>
+    <labels>
+        <fullName>ShaEZLabel</fullName>
+        <categories>This the new var on day two EZ commits</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ShaEZLabel</shortDescription>
+        <value>20</value>
+    </labels>
+    <labels>
+        <fullName>ShaEZNew</fullName>
+        <categories>This is adding new</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ShaEZNew</shortDescription>
+        <value>46</value>
+    </labels>
+    <labels>
+        <fullName>ShaNewLabel</fullName>
+        <categories>This is modifying and updateing on day two EZ Commits</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ShaNewLabel</shortDescription>
+        <value>10</value>
+    </labels>
+</CustomLabels>

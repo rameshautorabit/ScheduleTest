@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- ProfileComApp --></label>
+        <name>ProfileComApp</name>
+    </customApplications>
+    <customLabels>
+        <label><!-- PavEZCL --></label>
+        <name>PavEZCL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PavEZCL6 --></label>
+        <name>PavEZCL6</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SCHLable6 --></label>
+        <name>SCHLable6</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ShaEZLabel --></label>
+        <name>ShaEZLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ShaEZNew --></label>
+        <name>ShaEZNew</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ShaNewLabel --></label>
+        <name>ShaNewLabel</name>
+    </customLabels>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+</Translations>
